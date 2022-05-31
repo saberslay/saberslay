@@ -13,6 +13,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saberslay&color=00FFFF&style=flat" alt="saberslay" /> </p>
 
+<h3 align="left">Languages:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+<h3 align="left">Tools:</h3>
+<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saberslay&theme=onestar" alt="saberslay" /></a> </p>
 
 <p>
@@ -21,7 +26,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=saberslay&show_icons=true&theme=dark&locale=en" alt="saberslay" />
 </p>
 
-<p></p>
 <!--
 
 **saberslay/saberslay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
