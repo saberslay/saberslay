@@ -5,8 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saberslay&color=00FFFF&style=flat" alt="saberslay" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saberslay&theme=onestar" alt="saberslay" /></a> </p>
 
-<!--- 🔭 I’m currently working on a <a href="https://github.com/saberslay/TwitchChatBot" > TwitchChatBot </a> -->
-
 ***
 
 <h3 align="left">Connect with me:</h3>
@@ -15,6 +13,8 @@
 <a href="https://twitter.com/saberslay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wtfblazelol" height="30" width="40" /></a>
 <a href="https://discord.gg/wX2Y5WbqTw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wtfblaze" height="30" width="40" /></a>
 </p>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B2G6J6P)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
