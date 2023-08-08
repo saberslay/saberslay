@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋 I'm Daniel aka Saberslay</h1>
+<h1 align="center"> Hi there 👋 Saberslay</h1>
 
 <h3 align="center">I enjoy making random projects </h3>
 
