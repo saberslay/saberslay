@@ -2,6 +2,8 @@
 
 <h3 align="center">I enjoy making random projects </h3>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B2G6J6P)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saberslay&color=00FFFF&style=flat" alt="saberslay" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saberslay&theme=onestar" alt="saberslay" /></a> </p>
 
